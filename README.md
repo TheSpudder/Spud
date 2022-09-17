@@ -1,4 +1,4 @@
-# Ergo
+# Spud
 
 This repository contains the reference implementation of the
 Ergo Platform protocol, which is an alternative to
